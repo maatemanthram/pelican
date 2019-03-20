@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'maatemantram'
 SITENAME = 'మాటేమంత్రం'
-SITEURL = ''
+SITEURL = 'https://maatemantram.com'
 
 PATH = 'content'
 
