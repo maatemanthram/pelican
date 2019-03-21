@@ -58,7 +58,7 @@ BOOTSTRAP_THEME = 'flatly'
 
 PYGMENTS_STYLE = ['monokai', 'emacs']
 
-ARTICLE_PATHS = ['articles']
+# ARTICLE_PATHS = ['articles']
 
 STATIC_PATHS = ['img', 'pdf']
 
@@ -71,8 +71,16 @@ PAGE_PATHS = ['pages']
 #To change the URL to show the content type and date as well. 
 # The ARTICLE_URL variable states what should display in the web browser's address bar 
 # while the ARTICLE_SAVE_AS variable defines where the article being generated should be output to.
-ARTICLE_URL = 'articles/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
-ARTICLE_SAVE_AS = 'articles/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
+# ARTICLE_URL = 'articles/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
+
+
+ARTICLE_PATHS = ['articles',]
+ARTICLE_URL = '{category}/{slug}.html'
+ARTICLE_SAVE_AS = '{category}/{slug}.html'
+
+DISPLAY_CATEGORIES_ON_MENU = False
+
+# ARTICLE_SAVE_AS = 'articles/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
 
 #For pages, categories, and tags. 
