@@ -40,6 +40,7 @@ OUTPUT_PATH='../output'
 
 # Tell Pelican where it can find the custom theme
 THEME = 'theme/pelican-bootstrap3'
+# THEME = 'theme/elegant'
 
 # Tell Pelican where the plugins folder is located 
 PLUGIN_PATHS = ['plugins/', ]
@@ -78,7 +79,7 @@ ARTICLE_PATHS = ['articles',]
 ARTICLE_URL = '{category}/{slug}.html'
 ARTICLE_SAVE_AS = '{category}/{slug}.html'
 
-DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_MENU = True
 
 # ARTICLE_SAVE_AS = 'articles/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
