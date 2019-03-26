@@ -2,7 +2,7 @@ Title: Sreekaaram
 Date: 2019-03-04 12:00  
 Movie :KudiritheKappuCoffee   
 Music Director: Yogeshwara Sharma   
-Lyricist : Sirivennela Sitaramasastri   
+Lyricist : Sirivennela Sitarama Sastri   
 
 Category: Cinema
 Tags: సినిమా
@@ -38,3 +38,11 @@ Tags: సినిమా
 అందాకా మారం మాని జొకొట్టవే ఆరటన్ని  
 పొందిగ్గా పడుకొ రాణి జాగారం ఎందుగ్గనీ..  
 నళిణివో హరిణివో తరుణివో మురిపించే ముద్దులగుమ్మ  
+
+
+    ఎత్తుల్ని ఎగరేస్తూ 
+    లోతుల్ని తోడేస్తూ  
+    దిక్కుల్ని తరిమేస్తూ  
+    చుక్కల్ని చుట్టేయాలనే   
+    మరింకేదో సాధించాలనే   
+    అమాయకపు అడపిల్లల అందమైన ఆరటం ఈ పాట.. 
