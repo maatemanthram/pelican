@@ -39,15 +39,31 @@ DEFAULT_PAGINATION = False
 OUTPUT_PATH='../output'
 
 # Tell Pelican where it can find the custom theme
-THEME = 'theme/pelican-bootstrap3'
-# THEME = 'theme/elegant'
+# THEME = 'theme/pelican-bootstrap3'
+THEME = 'theme/elegant'
 
 # Tell Pelican where the plugins folder is located 
 PLUGIN_PATHS = ['plugins/', ]
 
 # A typical Pelican website will utilize many different plugins to extend its capabilities. Each plugin must be setup individually within pelicanconf.py. 
 # The PLUGINS variable contains all plugins being used by the website. 
-PLUGINS = ['i18n_subsites', ]
+PLUGINS = ['i18n_subsites', 'tipue_search', 'sitemap' ]
+
+DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))  
+
+SITEMAP = {
+    "format": "xml",
+    "priorities": {
+        "articles": 0.7,
+        "indexes": 0.5,
+        "pages": 0.3,
+    },
+    "changefreqs": {
+        "articles": "monthly",
+        "indexes": "daily",
+        "pages": "monthly",
+    }
+}
 
 # The i18n_subsites plugin relies on a language called Jinja2. 
 # To properly configure the i18n_subsites plugin we must also add the JINJA_ENVIRONMENT variable 
@@ -57,6 +73,7 @@ JINJA_ENVIRONMENT = {
 
 BOOTSTRAP_THEME = 'flatly'
 
+#  Pelican displays code blocks using the Pygments code highlighter.
 PYGMENTS_STYLE = ['monokai', 'emacs']
 
 # ARTICLE_PATHS = ['articles']
@@ -68,29 +85,33 @@ STATIC_PATHS = ['img', 'pdf']
 # It is not necessary to state the path but it is a good practice to do so. 
 PAGE_PATHS = ['pages']
 
-
 #To change the URL to show the content type and date as well. 
 # The ARTICLE_URL variable states what should display in the web browser's address bar 
 # while the ARTICLE_SAVE_AS variable defines where the article being generated should be output to.
 # ARTICLE_URL = 'articles/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 
 
-ARTICLE_PATHS = ['articles',]
+# ARTICLE_PATHS = ['articles',]
 ARTICLE_URL = '{category}/{slug}.html'
-ARTICLE_SAVE_AS = '{category}/{slug}.html'
-
-DISPLAY_CATEGORIES_ON_MENU = True
-
-# ARTICLE_SAVE_AS = 'articles/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
-
+ARTICLE_SAVE_AS = ARTICLE_URL
 
 #For pages, categories, and tags. 
-PAGE_URL = 'pages/{slug}/'
-PAGE_SAVE_AS = 'pages/{slug}/index.html'
-CATEGORY_URL = 'category/{slug}'
-CATEGORY_SAVE_AS = 'category/{slug}/index.html'
-TAG_URL = 'tag/{slug}'
-TAG_SAVE_AS = 'tag/{slug}/index.html'
+# PAGE_URL = 'pages/{slug}/'
+# PAGE_SAVE_AS = 'pages/{slug}/index.html'
+PAGE_URL = '{slug}.html'
+PAGE_SAVE_AS = PAGE_URL
+
+# CATEGORY_URL = 'category/{slug}'
+# CATEGORY_SAVE_AS = 'category/{slug}/index.html'
+CATEGORY_URL = 'categories/{slug}.html'
+CATEGORY_SAVE_AS = CATEGORY_URL
+CATEGORIES_SAVE_AS = 'categories.html'
+
+# TAG_URL = 'tag/{slug}'
+# TAG_SAVE_AS = 'tag/{slug}/index.html'
+TAG_URL = 'tags/{slug}.html'
+TAG_SAVE_AS = TAG_URL
+TAGS_SAVE_AS = 'tags.html'
 
 
 # The CNAME file is now added the local repository. 
