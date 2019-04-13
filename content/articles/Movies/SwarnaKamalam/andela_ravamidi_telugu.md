@@ -1,9 +1,9 @@
 Title: Andela Ravamidi  
 Date: 2019-03-04 12:00  
-Movie: SwarnaKamalam  
-Writer: Sirivennela Sitarama Sastri  
+Category: SwarnaKamalam  
+Tags: Ilayaraja, Sirivennela Sitarama Sastri, SPB, Vani Jayaram
 Music: Ilayaraja  
-Singer: SPB, Vani Jayaram  
+
 
 
 ఓం నమో నమో నమహ్ శివాయా  
@@ -14,7 +14,6 @@ Singer: SPB, Vani Jayaram
 
 శూలినే నమో నమహ్ కపాలినే నమహ్ శివాయా 
 పాలినే విరంచితుండ మాలినే నమహ్ శివాయా 
-
 
 _పల్లవి :_  
 అందెల రవమిది పదములదా...

@@ -23,3 +23,4 @@ DELETE_OUTPUT_DIRECTORY = True
 
 #DISQUS_SITENAME = ""
 GOOGLE_ANALYTICS = "UA-136502009-1"
+#pelican content -s publishconf.py # run this to generate output that uses GA Tag

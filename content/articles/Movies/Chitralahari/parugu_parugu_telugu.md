@@ -1,8 +1,7 @@
 Title: Parugu parugu  
 Date: 2019-03-25 12:00  
-Movie : Chitralahari  
-Lyricist : Devi Sri Prasad  
-Singer : Devi Sri Prasad  
+Category : Chitralahari
+Tags: Devi Sri Prasad
 
 
 _పల్లవి:_  

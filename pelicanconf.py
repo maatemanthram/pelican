@@ -47,7 +47,7 @@ PLUGIN_PATHS = ['plugins/', ]
 
 # A typical Pelican website will utilize many different plugins to extend its capabilities. Each plugin must be setup individually within pelicanconf.py. 
 # The PLUGINS variable contains all plugins being used by the website. 
-PLUGINS = ['i18n_subsites', 'tipue_search', 'sitemap' ]
+PLUGINS = ['tipue_search', 'sitemap']
 
 DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))  
 
