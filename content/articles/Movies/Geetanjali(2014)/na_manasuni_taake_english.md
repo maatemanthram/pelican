@@ -11,21 +11,21 @@ naa manasuni taakea veakuvajaabilivoa
 ee bhuvi kannulakea andani taarakavoa 
 
 naa pedavini taakea toli siri vaaneadoa  
-nee kanu saigalakea preamaga maarinidoa  
+nee kanu saigalakea preamaga maarinadoa  
 
 naa yeda mallikavoa.. cheli koavela deevenavoa  
-mari minnulu chuaDani punnami vennela nealaku jarinadoa   
+mari minnulu chuaDani punnami vennela nealaku jaarinadoa   
 
 naa manasuni taakea veakuvajaabilivoa 
 ee bhuvi kannulakea andani taarakavoa
 
 
 charaNam 1:
-kannula nanTina kaaTukala, nee pedavanchuna pallavi laa  
-ee leata paadamu nalankarichina muvvalle nea maaripoanaa 
+kannula nanTina kaaTukalaa, nee pedavanchuna pallavilaa  
+ee leata paadamunalankarichina muvvalle nea maaripoanaa 
 
-Veakuva choopina haayikala, manmadhuDaa idi maaya valaa  
-nee maaTa suaTiga maayeedoa cheayaga neaninka needaanni kaanaa   
+Veakuva choopina haayi kala, manmadhuDaa idi maaya valaa  
+nee maaTa suaTiga maayEdoa cheayaga neaninka needaanni kaanaa   
 
 AraaTamaa idi aanandamaa, naaloani bhaavaalakea addamaa  
 Prabhaatamaa naa prapanchamaa vennanTi saageaTi naa neeDalaa maari ia janmanea yealukoavaa ....
@@ -33,15 +33,12 @@ Prabhaatamaa naa prapanchamaa vennanTi saageaTi naa neeDalaa maari ia janmanea y
 
 charaNam 2:
 
-daaaguDu muatalu kannulato, valapula choopulu gunDelaloa
-
+daaaguDu muatalu kannulatO, valapula choopulu gunDelaloa
 naa gunDe chaTuna daagunna aaSalu ninninka cheareadelaaga 
 
 E katha yerugani prayaNayamidi, preamaga pondina paruvamidi 
+nee chuapu kougili koarindi naa madi dooraalanE daaTi raavaa  
 
-nee chuapu kougili koarindi naa madi dooraalane daaTi raavaa  
-
-nee vaaDinai yedapai vaalani nee preama loa nanu SwaaSichania  
-nireekshanai madi veachunnadi, ia kavyamea neaDu  
-naa gunDeloa cheari geetaanjalai pongi poonia 
-
+nee vaaDinai yedapai vaalani nee preama loa nanu SwaaSinchania  
+nireekshaNai madi veachunnadi, ia kaavyamea neaDu  
+naa gunDeloa cheari geetaanjalai pongi pOnia 
