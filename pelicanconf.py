@@ -71,7 +71,7 @@ JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
 }
 
-BOOTSTRAP_THEME = 'flatly'
+# BOOTSTRAP_THEME = 'flatly'
 
 #  Pelican displays code blocks using the Pygments code highlighter.
 PYGMENTS_STYLE = ['monokai', 'emacs']
@@ -89,32 +89,33 @@ PAGE_PATHS = ['pages']
 # The ARTICLE_URL variable states what should display in the web browser's address bar 
 # while the ARTICLE_SAVE_AS variable defines where the article being generated should be output to.
 # ARTICLE_URL = 'articles/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
+USE_FOLDER_AS_CATEGORY = True
 
-
-# ARTICLE_PATHS = ['articles',]
-ARTICLE_URL = '{category}/{slug}.html'
-ARTICLE_SAVE_AS = ARTICLE_URL
+ARTICLE_PATHS = ['articles',]
+ARTICLE_URL = '{category}/{slug}'
+ARTICLE_SAVE_AS = ARTICLE_URL+'.html'
 
 #For pages, categories, and tags. 
 # PAGE_URL = 'pages/{slug}/'
 # PAGE_SAVE_AS = 'pages/{slug}/index.html'
-PAGE_URL = '{slug}.html'
-PAGE_SAVE_AS = PAGE_URL
+PAGE_URL = '{slug}'
+PAGE_SAVE_AS = PAGE_URL+'.html'
 
 # CATEGORY_URL = 'category/{slug}'
 # CATEGORY_SAVE_AS = 'category/{slug}/index.html'
-CATEGORY_URL = 'categories/{slug}.html'
+CATEGORY_URL = '{slug}.html'
 CATEGORY_SAVE_AS = CATEGORY_URL
 CATEGORIES_SAVE_AS = 'categories.html'
 
 # TAG_URL = 'tag/{slug}'
 # TAG_SAVE_AS = 'tag/{slug}/index.html'
-TAG_URL = 'tags/{slug}.html'
-TAG_SAVE_AS = TAG_URL
+TAG_URL = 'tags/{slug}'
+TAG_SAVE_AS = TAG_URL+'.html'
 TAGS_SAVE_AS = 'tags.html'
 
 
 # The CNAME file is now added the local repository. 
-# This creates another issue: when we generate the website in Pelican the output folder gets deleted before it is loaded with new files. We need to create an exception for CNAME to avoid this. 
+# This creates another issue: when we generate the website in Pelican the output folder gets deleted before it is loaded with new files. 
+# We need to create an exception for CNAME to avoid this. 
 DELETE_OUTPUT_DIRECTORY = True
 OUTPUT_RETENTION = ['CNAME']

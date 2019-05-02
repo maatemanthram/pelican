@@ -1,6 +1,6 @@
-﻿﻿Title : adento gani vunnapatuga  
-Date : 2019-04-23 19:20  
-Movie : Jersey  
+﻿﻿Title:  adento gani vunnapatuga  
+Date: 2019-04-23 19:20  
+Category: Jersey  
 Status: draft
 
 _pallavi_  

@@ -1,6 +1,6 @@
 ﻿﻿Title : Adentogani vunnapatuga  
 Date : 2019-04-23 19:20  
-Category : Jersey  
+Category: Jersey  
 Tags: Anirudh Ravichander, Krishna Kanth,Brodha V,  Shakthisree Gopalan
 
 

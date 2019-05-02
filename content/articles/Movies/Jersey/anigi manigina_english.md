@@ -1,6 +1,6 @@
 ﻿﻿Title : Anigi Manigina 
 Date : 2019-04-23 19:20  
-Category : Jersey  
+Category: Jersey   
 Tags: Anirudh Ravichander, Krishna Kanth, Kala Bhairava     
 Status : draft
 
