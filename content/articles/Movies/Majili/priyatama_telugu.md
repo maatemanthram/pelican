@@ -1,6 +1,5 @@
 Title: Priyatama  
-Date: 2019-03-21 12:00  
-Category: Majili
+Date: 2019-03-21 12:00   
 Tags: Gopi Sundar, Goshala Rambabu  
 
 <!-- [TOC] -->

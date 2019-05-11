@@ -1,7 +1,6 @@
-Title: Prayathname
+Title: Prayathname  
 Date: 2019-03-25 12:00      
-Movie: Chitralahari     
-Tags: Devi Sri Prasad       
+Tags: Devi Sri Prasad     
 
 
 _పల్లవి:_ 

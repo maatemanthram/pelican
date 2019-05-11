@@ -1,7 +1,7 @@
 Title: Yedetthu mallele
-Date: 2019-03-21 12:00 
-Category: Majili
+Date: 2019-03-21 12:00   
 Tags: Gopi Sundar, Goshala Rambabu  
+
 
 ఏడెత్తు మల్లెలే...కొప్పులోన చేరే దారె లేదె  
 నీ తోడు కొయిలే...పొద్దుగూకేవేళ కూయలేదె    

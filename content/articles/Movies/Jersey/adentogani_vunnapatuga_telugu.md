@@ -1,7 +1,6 @@
-Title: Adento gaani vunnapatuga
-Date: 2019-04-23 19:20  
-Category: Jersey  
-Tags: Anirudh Ravichander, Krishna Kanth
+Title: Adento gaani vunnapatuga  
+Date: 2019-04-23 19:20   
+Tags: Anirudh Ravichander, Krishna Kanth  
 
 _పల్లవి:_   
 అదేంటొ గాని  ఉన్నపాటుగా       

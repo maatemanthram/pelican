@@ -1,7 +1,6 @@
 Title: Pade pade pedalani  
 Date: 2019-04-23 19:20  
-Category: Jersey  
-Tags: Anirudh Ravichander, Krishna Kanth,Brodha V, Shakthisree Gopalan 
+Tags: Anirudh Ravichander, Krishna Kanth,Brodha V, Shakthisree Gopalan  
 
 _పల్లవి:_    
 ముద్దుపెట్టన ఉపిరి పైనే  

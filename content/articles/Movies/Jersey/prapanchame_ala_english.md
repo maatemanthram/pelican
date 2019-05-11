@@ -1,6 +1,5 @@
 Title: Prapanchame Ala  
 Date: 2019-04-23 19:20  
-Category: Jersey  
 Tags: Anirudh Ravichander, Krishna Kanth, Shashaa Tirupati, Inno Genga 
 Status: draft
 

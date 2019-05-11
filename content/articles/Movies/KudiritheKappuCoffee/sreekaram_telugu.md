@@ -1,7 +1,6 @@
 Title: Sreekaaram   
-Date: 2019-03-04 12:00 
-Category: KudiritheKappuCoffee
-Tags: Yogeshwara Sharma, Sirivennela Sitarama Sastri
+Date: 2019-03-04 12:00   
+Tags: Yogeshwara Sharma, Sirivennela Sitarama Sastri  
 
 <!-- [TOC] -->
 

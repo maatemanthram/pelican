@@ -1,6 +1,5 @@
 Title: Anigi Manigina  
-Date: 2019-04-23 19:20  
-Category: Jersey  
+Date: 2019-04-23 19:20   
 Tags: Anirudh Ravichander, Krishna Kanth, Kala Bhairava  
 
 _పల్లవి:_   

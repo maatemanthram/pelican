@@ -1,7 +1,6 @@
 Title: Na Gundello   
-Date: 2019-03-21 12:00  
-Category: Majili
-Tags: Gopi Sundar, Goshala Rambabu  
+Date: 2019-03-21 12:00   
+Tags: Gopi Sundar, Goshala Rambabu   
 
 
 _పల్లవి:_

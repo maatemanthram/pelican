@@ -1,7 +1,6 @@
-Title: Na manasuni taake
-Date: 2019-03-04 12:00  
-Category : Geetanjali(2014)  
-Tags: Hari charan, Sreejo
+Title: Na manasuni taake        
+Date: 2019-03-04 12:00      
+Tags: Hari charan, Sreejo       
 
 <!-- [TOC] -->
 
@@ -9,6 +8,35 @@ Tags: Hari charan, Sreejo
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=XTz1gjh9ga0
 " target="_blank"><img src="http://img.youtube.com/vi/XTz1gjh9ga0/0.jpg" 
 alt="నా మనసుని తాకే వేకువజాబిలివో" width="240" height="180" border="10" /></a>
+
+
+naa manasuni taakea veakuvajaabilivoa   
+ee bhuvi kannulakea andani taarakavoa   
+
+naa pedavini taakea toli siri vaaneadoa  
+nee kanu saigalakea preamaga maarinadoa   
+
+naa yeda mallikavoa.. cheli koavela deevenavoa  
+mari minnulu chuaDani punnami vennela nealaku jaarinadoa   
+
+
+kannula nanTina kaaTukalaa, nee pedavanchuna pallavilaa   
+ee leata paadamunalankarichina muvvalle nea maaripoanaa   
+Veakuva choopina haayi kala, manmadhuDaa idi maaya valaa    
+nee maaTa suaTiga maayEdoa cheayaga neaninka needaanni kaanaa     
+AraaTamaa idi aanandamaa, naaloani bhaavaalakea addamaa    
+Prabhaatamaa naa prapanchamaa vennanTi saageaTi naa neeDalaa maari ia janmanea yealukoavaa ....  
+
+
+daaaguDu muatalu kannulatO, valapula choopulu gunDelaloa  
+naa gunDe chaTuna daagunna aaSalu ninninka cheareadelaaga   
+E katha yerugani prayaNayamidi, preamaga pondina paruvamidi   
+nee chuapu kougili koarindi naa madi dooraalanE daaTi raavaa    
+nee vaaDinai yedapai vaalani nee preama loa nanu SwaaSinchania    
+nireekshaNai madi veachunnadi, ia kaavyamea neaDu   
+naa gunDeloa cheari geetaanjalai pongi pOnia  
+
+----
 
 _పల్లవి:_   
 నా మనసుని తాకే వేకువజాబిలివో 
@@ -34,12 +62,11 @@ _చరణం #1:_
 ఫ్రభాతమా నా ప్రపంచమా వెన్నంటి సాగేటి నా నీడలా మారి ఈ జన్మనే యేలుకోవా ....
 
 
-_చరణం #2:_  
+_చరణం #2:_   
+దాగుడు మూతలు కన్నులతో, వలపుల చూపులు గుండెలలో  
+నా గుండె చటున దాగున్న ఆశలు నిన్నింక చేరేదెలాగ   
 
-దాగుడు మూతలు కన్నులతో, వలపుల చూపులు గుండెలలో
-నా గుండె చటున దాగున్న ఆశలు నిన్నింక చేరేదెలాగ 
-
-ఏ కథ యెరుగని ప్రయణయమిది, ప్రేమగ పొందిన పరువమిది 
+ఏ కథ యెరుగని ప్రయణయమిది, ప్రేమగ పొందిన పరువమిది   
 నీ చూపు కౌగిలి కోరింది నా మది దూరాలనే దాటి రావా  
 
 నీ వాడినై యెదపై వాలని నీ ప్రేమ లో నను శ్వాశించనీ  
