@@ -1,40 +1,63 @@
 Title: Parugu parugu  
 Date: 2019-03-25 12:00  
-Movie : Chitralahari
 Tags: Devi Sri Prasad
 
 
-_పల్లవి:_  
+----
+Parugu parugu Velthunna etuvaipu, Jarugu jarugu antundhe Life uuuu  
+Entha penchukuntunna Naa vegam, Nannu dhatipothunde lokam       
+
+Chakraalleni cycle laaga, Rekkalleni flight laaga  
+Bullet leni rifle laaga, Dhaaram leni kite laaga  
+Nenu kooda migilipoyaa  
+
+----
+
+Repanedi kalallonenaa, Nijangaa adhi raadha  
+Ninnalone nenundipovaala, Dhaati velle dhaari ledha  
+Mabbula loni full moon laaga, Orchestra leni tune laaga
+
+Nenu kooda migilipoyaa
+
+----
+
+Yeah, You got to run, You got to run, You got to run   
+
+You got to do,  What you got to do  
+To get to where you wanna be  
+
+Life is not a bed of roses man  
+You got to get that in your head  
+
+Let’s go
+
+
+Okka adugu nannu Mundukeyyanivvade venakki      
+Those edhuru gaali Okka mettu nannu  Paiki ekkanivvade      
+Nannu thokke force ne Emanaaali?
+
+Anhtam leni nireekshana laaga  
+Phalitham leni pareekshalaaga  
+Nenu kooda migilipoyaaaah  
+
+----
+
+----
 పరుగు పరుగు వెళ్తున్న ఎటువైపు, జరుగు జరుగు అంటుందే లైఫూ  
 ఎంత పెంచుకుంటున్నా నా వేగం,  నన్ను దాటిపొతుందే లోకం  
 
-చక్రాల్లెన్ని సైకిల్ లాగ  
-రెక్కల్లెన్ని ఫ్లైట్ లాగ  
-బుల్లెట్ లేని రైఫిల్ లాగ  
-దారం లేని కైట్ లాగ  
-
+చక్రాల్లెన్ని సైకిల్ లాగ , రెక్కల్లెన్ని ఫ్లైట్ లాగ  
+బుల్లెట్ లేని రైఫిల్ లాగ, దారం లేని కైట్ లాగ  
 నేను కూడా మిగిలిపొయా    
-పరుగు పరుగు వెళ్తున్న ఎటువైపు,జరుగు జరుగు అంటుందే లైఫూ   
-ఎంత పెంచుకుంటున్నా నా వేగం,  నన్ను దాటిపొతుందే లోకం    
 
-
-_చరణం #1:_  
-రేపనేది కలల్లోనేనా   
-నిజంగా అది రాదా  
-నిన్నలోనే నేనుండిపొవాలా  దాటి వెల్లే దారి లేద  
-మబ్బుల లోని ఫుల్ మూన్ లాగ 
-
-ఆర్కెస్ట్రా లేని ట్యూన్ లాగ   
-నేను కూడ మిగిలిపొయా  
+-----
+రేపనేది కలల్లోనేనా  , నిజంగా అది రాదా  
+నిన్నలోనే నేనుండిపొవాలా  దాటి వెల్లే దారి లేదా  
+మబ్బుల లోని ఫుల్ మూన్ లాగ, ఆర్కెస్ట్రా లేని ట్యూన్ లాగ   
+నేను కూడా మిగిలిపొయా  
  
-పరుగు పరుగు వెళ్తున్న ఎటువైపు   
-జరుగు జరుగు అంటుందే లైఫూ   
-
-ఎంత పెంచుకుంటున్నా నా వేగం, నన్ను దాటిపొతుందే లోకం  
-
-
-_చరణం #2:_  
-Yeah, You got to run ,  You got to run  , You got to run  
+----
+Yeah, You got to run, You got to run, You got to run  
 You got to do , What you got to do 
 To get to where you wanna be
 
@@ -50,11 +73,8 @@ Let’s go
 ఫలితం లేని పరీక్షలాగ  
 నేను కూడ మిగిలిపొయా   
 
-పరుగు పరుగు వెళ్తున్న ఎటువైపు   
-జరుగు జరుగు అంటుందే లైఫూ  
+----
 
-ఎంత పెంచుకుంటున్నా నా వేగం  
-నన్ను దాటిపొతుందే లోకం  
-
-
+<!-- [Parugu parugu]({filename}/articles/Movies/Chitralahari/parugu_parugu_english.md) -->
+<!-- ![parugu_parugu]({static}/img/parugu_parugu_telugu.png) -->
 
