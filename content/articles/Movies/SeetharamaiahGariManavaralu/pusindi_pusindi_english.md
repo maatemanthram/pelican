@@ -1,8 +1,8 @@
-﻿Title : Pusindi pusindi punnaga     
-Date : 2019-03-29 8:20      
-Category : Seetharamaiah Gari Manavaralu        
-Tags: M M Keeravani, Chitra , SPB, Veturi       
-Status: draft       
+Title: Pusindi pusindi punnaga     
+Date: 2019-03-29 8:20      
+Category: Seetharamaiah Gari Manavaralu        
+Tags: M M Keeravani, Chitra , SPB, Veturi      
+status:draft 
 
 _pallavi :_  
 Poosindi poosindi punnaga poosantha navvindi neelaga..  
@@ -38,5 +38,3 @@ Poosindi poosindi punnaga poosantha navvindi neelaga..
 Sandhela laagesi sallanga daani sannayi jallona sampenga..  
 Mullokaale kuppelai jada kuppelai..  
 Aada jathulaada..  
-
-

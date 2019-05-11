@@ -113,6 +113,7 @@ TAG_URL = 'tags/{slug}'
 TAG_SAVE_AS = TAG_URL+'.html'
 TAGS_SAVE_AS = 'tags.html'
 
+# LOAD_CONTENT_CACHE = False
 
 # The CNAME file is now added the local repository. 
 # This creates another issue: when we generate the website in Pelican the output folder gets deleted before it is loaded with new files. 

@@ -1,6 +1,6 @@
-﻿Title : Pusindi pusindi punnaga     
-Date : 2019-03-29 8:20      
-Category : Seetharamaiah Gari Manavaralu        
+Title: Pusindi pusindi punnaga     
+Date: 2019-03-29 8:20      
+Category: Seetharamaiah Gari Manavaralu        
 Tags: M M Keeravani, Chitra , SPB, Veturi       
 
 _పల్లవి :_
@@ -25,7 +25,6 @@ _చరణం :_
 వలపన్న గానమే ఒక వాయులీనమై..   
 పాడె మది పాడె..    
 
-
 _చరణం :_
 
 పట్టుకుంది నా పదమే నీ పధమే పారణిగా..    
@@ -41,6 +40,3 @@ _చరణం :_
 సందేల లాగేసె సల్లంగ దాని సన్నాయి జల్లోన సంపెంగ..   
 ముల్లోకాలె కుప్పెలై జడ కుప్పెలై..   
 ఆడ జతులాడ..   
-
- 
-

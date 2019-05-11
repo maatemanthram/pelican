@@ -1,8 +1,8 @@
-﻿﻿Title : Anigi Manigina 
-Date : 2019-04-23 19:20  
-Category: Jersey   
-Tags: Anirudh Ravichander, Krishna Kanth, Kala Bhairava     
-Status : draft
+Title: Anigi Manigina  
+Date: 2019-04-23 19:20  
+Category: Jersey  
+Tags: Anirudh Ravichander, Krishna Kanth, Kala Bhairava  
+Status: draft
 
 
 _pallavi_
@@ -45,6 +45,3 @@ pagalu merupulu chupara, vayasu sagamuga maripoyi oodera
 gelupea adugaduguna, veluge ninu alamena, digule pade maruguna  
 modalai eka samarama, padina bedaraka pada, pruge vijayamu kada  
 bhuvike chematala nadai, kadilenule    ///tagalaga meghame//
-
-
-

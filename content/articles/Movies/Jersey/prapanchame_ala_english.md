@@ -1,5 +1,5 @@
-﻿﻿Title : Prapanchame Ala  
-Date : 2019-04-23 19:20  
+Title: Prapanchame Ala  
+Date: 2019-04-23 19:20  
 Category: Jersey  
 Tags: Anirudh Ravichander, Krishna Kanth, Shashaa Tirupati, Inno Genga 
 Status: draft
@@ -15,12 +15,11 @@ maro themame cheraga mea mila
 ma kanulu vadili mari kala  
 ma eduru nilichi piliche vela   
 maa manasu kanani merupula  
-ee nalupu vidiche elugethele  //2//
+ee nalupu vidiche elugethele 
 
 prathi xanamu brathuku oka jagadame  
 thega parugu naduma edi eragame  
 madi kuduta padina tholi tharuame  
-mudi nuduta vidina chiru sdamayame  
+mudi nuduta vidina chiru samayame  
 pasi vayasu manishioka varamule  
 adi thelisesariki eka migalade  
-

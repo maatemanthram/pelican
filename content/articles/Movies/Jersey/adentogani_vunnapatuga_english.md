@@ -1,7 +1,9 @@
-﻿﻿Title:  adento gani vunnapatuga  
+Title: Adento gaani vunnapatuga
 Date: 2019-04-23 19:20  
 Category: Jersey  
+Tags: Anirudh Ravichander, Krishna Kanth
 Status: draft
+
 
 _pallavi_  
 Adento gaani unnapaatugaa  

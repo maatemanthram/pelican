@@ -1,8 +1,7 @@
-﻿﻿Title : Anigi Manigina 
-Date : 2019-04-23 19:20  
+Title: Anigi Manigina  
+Date: 2019-04-23 19:20  
 Category: Jersey  
-Tags: Anirudh Ravichander, Krishna Kanth, Kala Bhairava
-
+Tags: Anirudh Ravichander, Krishna Kanth, Kala Bhairava  
 
 _పల్లవి:_   
 అణిగి మణిగిన అలలిక ఎగసెను చుడర  
@@ -48,7 +47,3 @@ _చరణం_
 కురవని వేగమే అడుగులు చూపడనికే   
 మరిచిన తారవే ముసుగిక నేడు వీడెలే   
 పరుగుల దాహమే, భరువిక తేలికాయెలే 
-
-
-
-

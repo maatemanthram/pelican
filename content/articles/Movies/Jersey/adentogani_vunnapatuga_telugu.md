@@ -1,13 +1,7 @@
-﻿﻿Title: Prayathname_2
-Date: 2019-03-25 12:00      
-Category : Chitralahari     
-Tags: Devi Sri Prasad    
-
-
-<!-- Title: Adentogani vunnapatuga  
+Title: Adento gaani vunnapatuga
 Date: 2019-04-23 19:20  
-Category: Jersey    
-Tags: Anirudh Ravichander, Krishna Kanth -->
+Category: Jersey  
+Tags: Anirudh Ravichander, Krishna Kanth
 
 _పల్లవి:_   
 అదేంటొ గాని  ఉన్నపాటుగా       
@@ -45,5 +39,3 @@ _పల్లవి:_
 దూరమెటుల దూరెనే    
 మనకే తెలిసె లోపలే      
 సమయమే మారిపొయెనే    
-
-

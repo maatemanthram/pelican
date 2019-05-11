@@ -1,8 +1,8 @@
-﻿﻿Title : Adentogani vunnapatuga  
-Date : 2019-04-23 19:20  
+Title: Pade pade pedalani  
+Date: 2019-04-23 19:20  
 Category: Jersey  
-Tags: Anirudh Ravichander, Krishna Kanth,Brodha V,  Shakthisree Gopalan
-Status: draft
+Tags: Anirudh Ravichander, Krishna Kanth,Brodha V, Shakthisree Gopalan  
+Status: draft 
 
 _pallavi_   
 muddupettana upiri paine  
@@ -16,7 +16,7 @@ enni thittina apanu nene vundu guttu gane
 pade pade pedalani  
 ade panai sraminchani  
 padaalane patinchani  
-ede nadai muncheyani  //2//
+ede nadai muncheyani  
 
 _charanam_
 kanulaki kapala leadule  
@@ -33,13 +33,10 @@ poleva poleva matese duralu poleva .. nena kosame
 pade pade pedalani  
 ade panai sraminchani  
 padaalane patinchani  
-ede nadai muncheyani  //2//
+ede nadai muncheyani  
 
 kanulaki kapala leadule  
 kalaladi aagani dookude  
 
 vayasuki opika loakuve  
 thanuvuki ashala thakide
-
-
-

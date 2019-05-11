@@ -1,8 +1,7 @@
-﻿﻿Title : Adentogani vunnapatuga  
-Date : 2019-04-23 19:20  
+Title: Pade pade pedalani  
+Date: 2019-04-23 19:20  
 Category: Jersey  
-Tags: Anirudh Ravichander, Krishna Kanth,Brodha V,  Shakthisree Gopalan
-
+Tags: Anirudh Ravichander, Krishna Kanth,Brodha V, Shakthisree Gopalan 
 
 _పల్లవి:_    
 ముద్దుపెట్టన ఉపిరి పైనే  
@@ -16,7 +15,7 @@ _పల్లవి:_
 పదే పదే పెదాలని  
 అదే పనై శ్రమించని   
 పదాలనే పటించని  
-ఎదే నదై ముంచేయని   //2//
+ఎదే నదై ముంచేయని   
 
 _చరణం_
 కనులకి కాపల లేదులే   
@@ -33,11 +32,10 @@ _చరణం_
 పదే పదే పెదాలని  
 అదే పనై శ్రమించని   
 పదాలనే పటించని  
-ఎదే నదై ముంచేయని   //2//
+ఎదే నదై ముంచేయని   
 
 కనులకి కాపల లేదులె  
 కలలది ఆగని దూకుడే   
 
 వయసుకి ఓపిక లోకువే  
 తనువుకి అశల తాకిడె  
-
