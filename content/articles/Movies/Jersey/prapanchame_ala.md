@@ -15,7 +15,7 @@ _పల్లవి:_
 మా మనసు కనని మెరుపుల  
 ఈ నలుపు విడిచె ఎలుగెత్తెలా  
 
-ప్రథి క్షణము బ్రతుకు ఒక జగడమే  
+ప్రతి క్షణము బ్రతుకు ఒక జగడమే  
 తెగ పరుగు నడుమ ఇది ఎరగమే   
 మది కుదుట పడిన తొలి తరునమే  
 ముది నుదుట విడిన చిరు సమయమే   
@@ -31,3 +31,25 @@ _పల్లవి:_
 మా ఎదురు నిలిచి పిలిచె వేల   
 మా మనసు కనని మెరుపుల  
 ఈ నలుపు విడిచె ఎలుగెత్తెలా  
+
+
+----
+
+prapanchame ala nidarloa vundigaa   
+navvemo melukundigaa  pedaalapai ela  
+aanandame ela rammandile padaa  
+husharu veedi vaipugaa shikkaruke padaa  
+ete cheekate veakuvai vaalena  
+maro themame cheraga mea mila   
+
+ma kanulu vadili mari kala  
+ma eduru nilichi piliche vela   
+maa manasu kanani merupula  
+ee nalupu vidiche elugethele 
+
+prathi xanamu brathuku oka jagadame  
+thega parugu naduma edi eragame  
+madi kuduta padina tholi tharuame  
+mudi nuduta vidina chiru samayame  
+pasi vayasu manishioka varamule  
+adi thelisesariki eka migalade  
