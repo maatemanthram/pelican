@@ -40,7 +40,7 @@ OUTPUT_PATH='../output'
 
 # Tell Pelican where it can find the custom theme
 # THEME = 'theme/pelican-bootstrap3'
-THEME = 'theme/elegant'
+THEME = 'theme/suchen'
 
 # Tell Pelican where the plugins folder is located 
 PLUGIN_PATHS = ['plugins/', ]
