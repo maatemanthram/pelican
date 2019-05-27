@@ -115,6 +115,18 @@ TAGS_SAVE_AS = 'tags.html'
 
 # LOAD_CONTENT_CACHE = False
 
+# # Support for Staticman comments
+# commentsPath = "./content/comments"
+# from os import listdir
+
+# def ymlToJson(file):
+#     with open(commentsPath + "/" + file) as stream:
+#         return yaml.load(stream)
+
+# commentsYML = [f for f in listdir(commentsPath) if isfile(join(commentsPath, f))]
+# COMMENTS = list(map(ymlToJson, commentsYML))
+
+
 # The CNAME file is now added the local repository. 
 # This creates another issue: when we generate the website in Pelican the output folder gets deleted before it is loaded with new files. 
 # We need to create an exception for CNAME to avoid this. 
