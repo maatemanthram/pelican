@@ -115,6 +115,13 @@ TAGS_SAVE_AS = 'tags.html'
 
 # LOAD_CONTENT_CACHE = False
 
+# # TAG Cloud
+# import math
+# JINJA_FILTERS = {
+#     'count_to_font_size': lambda c: '{p:.1f}%'.format(p=100 + 25 * math.log(c, 2)),
+# }
+
+
 # # Support for Staticman comments
 # commentsPath = "./content/comments"
 # from os import listdir
