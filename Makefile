@@ -94,7 +94,7 @@ github: publish
 	ghp-import -n -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH)  $(OUTPUTDIR)
 	# git push origin $(GITHUB_PAGES_BRANCH)
 	# git push git@github.com:maatemantram/maatemantram.github.io.git master:master
-	git push https://${GITHUB_USER}@github.com/${GITHUB_USER}/$(GITHUB_USER).github.io.git 
+	git push https://${GITHUB_USER}@github.com/${GITHUB_USER}/$(GITHUB_USER).github.io.git gh-pages:master
 	
 	# git push git@github.com:elemoine/elemoine.github.io.git gh-pages:master
 	# The git push command pushes the local gh-pages branch (freshly updated by the ghp-import command) to the elemoine.github.io repository’s master branch on GitHub.
